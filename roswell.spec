@@ -37,7 +37,7 @@ sh bootstrap
 
 %changelog
 * Mon Sep 04 2017 Eldar Tsraev <elts@culab.org> - 17.8.9.81-1
-- New upstream version
+- New upstream version: 17.8.9.81
 
 * Mon Aug 07 2017 Eldar Tsraev <elts@culab.org> - 17.7.9.80-1
 - Initital Spec file
