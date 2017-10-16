@@ -1,5 +1,5 @@
 Name:    roswell
-Version: 17.8.9.81
+Version: 17.10.10.83
 Release: 1%{?dist}
 Summary: Common Lisp environment setup Utility
 URL:     https://github.com/roswell/roswell
@@ -36,6 +36,9 @@ sh bootstrap
 %{_mandir}/man1/ros*
 
 %changelog
+* Mon Sep 16 2017 Eldar Tsraev <elts@culab.org> - 17.10.10.83-1
+- New upstream version: 17.10.10.83
+
 * Mon Sep 04 2017 Eldar Tsraev <elts@culab.org> - 17.8.9.81-1
 - New upstream version: 17.8.9.81
 
